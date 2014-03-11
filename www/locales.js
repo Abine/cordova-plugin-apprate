@@ -52,7 +52,7 @@ AppRateLocales = {
   },
   en: {
     title: "Rate %@",
-    message: "If you enjoy using %@, would you mind taking a moment to rate it? It won’t take more than a minute. Thanks for your support!",
+    message: "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!",
     buttonLabels: ["No, Thanks", "Remind Me Later", "Rate It Now"]
   },
   es: {
