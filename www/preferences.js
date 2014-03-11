@@ -3,14 +3,14 @@ var AppRatePreferences;
 
 AppRatePreferences = {
   useLanguage: "en",
-  displayAppName: "AppRate plugin",
-  promptAtLaunch: true,
-  promptAgainForEachNewVersion: true,
+  displayAppName: "DoNotTrackMe",
+  promptAtLaunch: false,
+  promptAgainForEachNewVersion: false,
   daysUntilPrompt: 1,
   usesUntilPrompt: 3,
   appStoreID: {
-    ios: "123456789",
-    android: "com.company.YourAppID",
+    ios: "828387649",
+    android: "com.abine.dnt",
     blackberry: "123456789"
   }
 };
