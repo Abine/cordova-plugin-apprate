@@ -6,8 +6,8 @@ AppRatePreferences = {
   displayAppName: "DoNotTrackMe",
   promptAtLaunch: false,
   promptAgainForEachNewVersion: false,
-  daysUntilPrompt: 1,
-  usesUntilPrompt: 3,
+  daysUntilPrompt: 0,
+  usesUntilPrompt: 0,
   appStoreID: {
     ios: "828387649",
     android: "com.abine.dnt",
