@@ -26,7 +26,7 @@ AppRate = (function() {
 
   navigateToAppStore = function() {
     if (/(iPhone|iPod|iPad)/i.test(navigator.userAgent.toLowerCase())) {
-      return window.open("http://itunes.apple.com/app/id" + preferences.appStoreID.ios);
+      return window.open("https://itunes.apple.com/app/id" + preferences.appStoreID.ios, "_system");
     } else if (/(Android)/i.test(navigator.userAgent.toLowerCase())) {
       return window.open("market://details?id=" + preferences.appStoreID.android, "_system");
     } else if (/(BlackBerry)/i.test(navigator.userAgent.toLowerCase())) {
